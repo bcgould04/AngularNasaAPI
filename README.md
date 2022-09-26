@@ -1,5 +1,9 @@
 # AngularNasaAPI
 
+This is a very basic app that retrieves a group of pictures from a publicly accessible NASA Mars Rover API on a date selected by the user.
+
+The project shows basic implementation and use of data binding, a model, and a service in Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.13.
 
 ## Development server
