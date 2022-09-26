@@ -1,0 +1,19 @@
+p {
+  font-family: Lato, serif;
+}
+
+.container {
+  margin: 25px;
+}
+
+.pics-btn {
+  margin: 25px;
+}
+
+.rover-picture {
+  margin: 15px;
+  display: inline-block;
+  float: left;
+  height: 100px;
+  width: 100px;
+}
